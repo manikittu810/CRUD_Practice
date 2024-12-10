@@ -30,5 +30,4 @@ public class User {
     private String eventLocation;
     @Column(nullable = false)
     private Date date;
-
 }
